@@ -1,0 +1,5 @@
+my:
+  value: Hello from Client service PRODUCTION Environment!!!
+
+server:
+  port: 8525

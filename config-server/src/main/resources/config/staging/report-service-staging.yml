@@ -1,0 +1,5 @@
+my:
+  value: Hello from Report service PRODUCTION Environment!!!
+
+server:
+  port: 8586
